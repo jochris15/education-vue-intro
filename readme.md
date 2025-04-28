@@ -2,7 +2,7 @@
 
 ## What is [Vue.js?](https://vuejs.org/guide/introduction.html)
 
-Berdasarkan dokumentasi, kita bisa tau bahwa React adalah sebuah framework javascript untuk membuat user interfaces. Pada dasarnya, Vue dibangun di atas HTML, CSS, dan JavaScript, dan juga memberikan model pemrograman deklaratif berbasis komponen yang membantu kamu untuk mengembangkan  dengan lebih efisien, baik yang sederhana maupun yang kompleks.
+Berdasarkan dokumentasi, kita bisa tau bahwa Vue adalah sebuah framework javascript untuk membuat user interfaces. Pada dasarnya, Vue dibangun di atas HTML, CSS, dan JavaScript, dan juga memberikan model pemrograman deklaratif berbasis komponen yang membantu kamu untuk mengembangkan  dengan lebih efisien, baik yang sederhana maupun yang kompleks.
 
 Ingat yah penekanannya di sini adalah sebuah Framework Ya, bukan library.
 
