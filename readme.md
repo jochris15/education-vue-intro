@@ -11,8 +11,6 @@ Ingat yah penekanannya di sini adalah sebuah Framework Ya, bukan library.
 TL;DR: Framework memiliki magic yang lebih banyak dibanding library.
 
 Secara garis besarnya, Framework memiliki fitur yang wah dibandingkan dengan library, tetapi memiliki aturannya tersendiri, tidak seperti library yang menggunakan aturan umum javascript.
-<br>
-<br>
 
 ## Why use Vue.js?
 1. Mudah dipelajari
@@ -20,26 +18,22 @@ Secara garis besarnya, Framework memiliki fitur yang wah dibandingkan dengan lib
 3. Struktur yang Lebih Terorganisir, menggunakan `Single File Component` (SFC) untuk memisahkan antara HTML, CSS, dan JavaScript dalam satu file
 4. Pendekatan "Progressive Framework", Vue bisa diintegrasikan secara bertahap ke dalam proyek yang sudah ada
 5. Performance, Vue termasuk framework ringan
-<br>
-<br>
 
 ## [API Styles](https://vuejs.org/guide/introduction.html#api-styles)
 
 Komponen Vue bisa ditulis dengan dua gaya API yang berbeda: **Options API** dan **Composition API.**
 
-**Bedanya apa?**
+**Bedanya apa?** 
 
-**Options API** lebih cocok untuk aplikasi kecil, newbie friendly.
+- **Options API** lebih cocok untuk aplikasi kecil, newbie friendly.
 
-**Composition API** lebih ideal untuk aplikasi kompleks, fitur lebih modern, dan secara performance lebih oke.
-<br>
-<br>
+- **Composition API** lebih ideal untuk aplikasi kompleks, fitur lebih modern, dan secara performance lebih oke.
 
 ## Demo (Composition & Options API)
 
 [**Setup**](https://vuejs.org/guide/quick-start.html)
 
-1. Install extension [Vue.volar](https://marketplace.visualstudio.com/items/?itemName=Vue.volar)
+1. Install extension [Vue.volar](https://marketplace.visualstudio.com/items/?itemName=Vue.volar) agar kita bisa menggunakan fitur Vue di VSCode
 2. `npm create vue@latest`
 3. Masukkan `<nama_folder>`
 4. Pilih `ESLint`
