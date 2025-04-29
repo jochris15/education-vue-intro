@@ -29,7 +29,7 @@ Komponen Vue bisa ditulis dengan dua gaya API yang berbeda: **Options API** dan 
 
 - **Composition API** lebih ideal untuk aplikasi kompleks, fitur lebih modern, dan secara performance lebih oke.
 
-## Demo (Composition & Options API)
+## Demo (Options API)
 
 [**Setup**](https://vuejs.org/guide/quick-start.html)
 
