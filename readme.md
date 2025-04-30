@@ -42,10 +42,11 @@ Komponen Vue bisa ditulis dengan dua gaya API yang berbeda: **Options API** dan 
 7. `npm install`
 8. `npm run dev`
 9. Ganti Title dan Jika menggunakan Framework CSS dengan CDN , tambahkan script yang dibutuhkan di `index.html`
-10. Hapus folder components
-11. Hapus seluruh file yang ada dalam folder `src/assets` kecuali main.css (akan menjadi file css utama kita) 
-12. Hapus seluruh code yang ada di dalam `src/App.vue`
-13. Copy isi dari body yang ada di template (template.html) ke src/App.jsx 
+10. Jika menggunakan Tailwind CSS secara instalasi (recommended), install Tailwind CSS dengan cara [ini](https://tailwindcss.com/docs/installation/using-vite) dan ikuti langkah-langkahnya
+11. Hapus folder components
+12. Hapus seluruh file yang ada dalam folder `src/assets` kecuali main.css (akan menjadi file css utama kita) 
+13. Hapus seluruh code yang ada di dalam `src/App.vue`
+14. Copy isi dari body yang ada di template (template.html) ke src/App.jsx 
 
 **Part 1 ([Reactivity](https://vuejs.org/guide/essentials/reactivity-fundamentals.html) , [Form input biding](https://vuejs.org/guide/essentials/forms.html)  & [Event Handling](https://vuejs.org/guide/essentials/event-handling.html))**
 
